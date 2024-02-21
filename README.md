@@ -1,3 +1,2 @@
-This is the README.md file for odin-recipes repository.
-
-I will come back here later.
+This is the README.md file for odin-recipes repository, 
+which includes bare-bone html for three recipes and a homepage. 
